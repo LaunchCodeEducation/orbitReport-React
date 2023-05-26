@@ -4,7 +4,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## Getting Started
 1. Fork and [clone this repo from GitHub](https://plainenglish.io/blog/how-to-clone-an-app-from-github-446541a0302d)
-2. Open this in Visual Studio Code
+2. Open this in Visual Studio Code (or your favorite IDE for React projects)
 3. Use the terminal to cd into the project directory.
 4. Use the following commands to start the project:
   1. `npm install` this will pull in dependencies your project may need.
