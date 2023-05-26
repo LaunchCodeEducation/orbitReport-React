@@ -7,7 +7,6 @@ const Table = ({ sat }) => {
          </tr>
          </thead>
          <tbody>
-         {/* body */}
          <tr>
            <td>Row Data TBD</td>
          </tr>
