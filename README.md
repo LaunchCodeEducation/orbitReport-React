@@ -20,12 +20,13 @@ This project was created with [Create React App](https://github.com/facebook/cre
 This project uses unit tests to help auto-grade your work.
 The tests should pass based on the files you create and their behavior.
   
-  ### To Run the Tests 
-  Use these steps to start the tests:
-    1. In the terminal, cd into the project directory.
-    2. Run the following commands to start the tests: npm tests
+### To Run the Tests 
+Use these steps to start the tests:
+  1. In the terminal, cd into the project directory.
+  2. Run the following commands to start the tests: npm tests
 
   You should see the following when you first run the tests:
+  
   <img width="50%" alt="starting unit tests" src="https://github.com/LaunchCodeEducation/orbitReport-React/assets/66076696/9abae38b-971a-41df-b34d-cd75aee1b81a">
 
   As you work through the assignment, you will create and add more code. When you reach the last section of the instructions, you will run the unit tests.
