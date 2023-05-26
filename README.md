@@ -23,7 +23,7 @@ The tests should pass based on the files you create and their behavior.
 ### To Run the Tests 
 Use these steps to start the tests:
   1. In the terminal, cd into the project directory.
-  2. Run the following commands to start the tests: npm tests
+  2. Run the following commands to start the tests: `npm test`
 
   You should see the following if you run the tests _BEFORE_ completing the assignment:
   
