@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Graded Assignment 6: Orbit Report
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  For more documentation on working with **Create React App** see the [Create-React-App-README](https://github.com/LaunchCodeEducation/orbitReport-React/blob/main/Create-React-App-README.md) file in this repo.
 
-## Available Scripts
+## Getting Started
+1. Fork and [clone this repo from GitHub](https://plainenglish.io/blog/how-to-clone-an-app-from-github-446541a0302d)
+2. Open this in Visual Studio Code
+3. Use the terminal to `cd` into the project directory.
+4. Use the following commands to get the start the project:
+  1. `npm install` this will pull in dependencies your project may need.  
+  2. `npm start` will run the project.
 
-In the project directory, you can run:
+## Assignment Overview:
+1. Create componenets to render an interactive table that displays statellites.  The satellites render based on a button click.  You will create the buttons, the table, and functions that connect them.  It's going to be great!  :)
+2. When finished with your interactive table, you will run the unit tests found in `App.test.js`.  There are a total of 9 tests in that file.  When you pass all of the tests, let your TA know and review your project with them. 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Running the Unit Tests
+This project uses unit tests to help autograde the work.  
+The tests should pass based on files you create and its overall behavior.
+  ### To Run the Tests 
+  Use these steps to start the tests:
+  1. In the terminal, `cd` into the project directory.
+  2. Run the following commands to start the tests: `npm tests`
+  3. You should see the following when you first run the tests:
+  <img width="50%" alt="starting unit tests" src="https://github.com/LaunchCodeEducation/orbitReport-React/assets/66076696/9abae38b-971a-41df-b34d-cd75aee1b81a">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+As you work through the assignment you will create and add more code.  When you reach the last section of the instuctions, you will be asked to run the unit tests.  
 
-### `npm test`
+If you code behaves as expected you should pass all of the unit tests and see this:
+  <img width="50%" alt="passing unit tests" src="https://github.com/LaunchCodeEducation/orbitReport-React/assets/66076696/b0cf1c1f-4ba8-4553-968d-040538c64c9b">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Troubleshooting
+Trouble shooting tips for this project and the unit tests are found in the Graded Assignment 6 part of the textbook.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy coding! :)
