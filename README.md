@@ -25,7 +25,7 @@ Use these steps to start the tests:
   1. In the terminal, cd into the project directory.
   2. Run the following commands to start the tests: npm tests
 
-  You should see the following when you first run the tests:
+  You should see the following if you run the tests _BEFORE_ completing the assignment:
   
   <img width="50%" alt="starting unit tests" src="https://github.com/LaunchCodeEducation/orbitReport-React/assets/66076696/9abae38b-971a-41df-b34d-cd75aee1b81a">
 
