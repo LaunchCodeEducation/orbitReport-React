@@ -4,7 +4,6 @@ const satData = [
      name: "Sirius 1",
      type: "Communication",
      launchDate: "2007-11-17",
-     deactivated: "2016",
      orbitType: "Low",
      operational: false
    },
