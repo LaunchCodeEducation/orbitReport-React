@@ -1,17 +1,18 @@
 const Table = ({ sat }) => {
    return (
-     <div>
        <table>
-         {/* header */}
+        <thead>
          <tr>
            <th>Header TBD</th>
          </tr>
+         </thead>
+         <tbody>
          {/* body */}
          <tr>
            <td>Row Data TBD</td>
          </tr>
+         </tbody>
        </table>
-     </div>
    );
  };
  
