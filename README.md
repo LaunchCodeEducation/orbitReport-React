@@ -5,7 +5,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 ## Getting Started
 1. Fork and [clone this repo from GitHub](https://plainenglish.io/blog/how-to-clone-an-app-from-github-446541a0302d)
 2. Open this in Visual Studio Code (or your favorite IDE for React projects)
-3. Use the terminal to cd into the project directory.
+3. Use the terminal to `cd` into the project directory.
 4. Use the following commands to start the project:
   1. `npm install` this will pull in dependencies your project may need.
   2. `npm start` will run the project.
@@ -22,8 +22,7 @@ The tests should pass based on the files you create and their behavior.
   
 ### To Run the Tests 
 Use these steps to start the tests:
-  1. In the terminal, cd into the project directory.
-  2. Run the following commands to start the tests: `npm test`
+  1. Inside the project directory, run the following commands to start the tests: `npm test`
 
   You should see the following if you run the tests _BEFORE_ completing the assignment:
   
