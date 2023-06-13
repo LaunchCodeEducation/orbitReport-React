@@ -6,6 +6,7 @@ function App() {
     <div>
       <Buttons />
       <Table />
+      <p>Hello</p>
     </div>
   );
 }
