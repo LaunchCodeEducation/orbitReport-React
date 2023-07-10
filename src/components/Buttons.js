@@ -6,3 +6,5 @@ const Buttons = () => {
       </div>
   );
 };
+
+export default Buttons;
