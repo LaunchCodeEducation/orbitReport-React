@@ -1,6 +1,3 @@
-import satData from "./satData";
-import App from "../App";
-
 const Table = ({ sat }) => {
   return (
       <table>
