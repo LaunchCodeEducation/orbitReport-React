@@ -1,4 +1,3 @@
-
 import "./styling.css";
 
 const Table = ({ sat }) => {
