@@ -1,4 +1,4 @@
-# Graded Assignment 6: Orbit Report Solution
+# Graded Assignment 6: Orbit Report
 
 Using Node 18.16.10
 
